@@ -1,0 +1,43 @@
+/* 
+    #8b6a5d
+    #c68350
+    b0bab9
+    ddb8a6
+*/
+body{
+    background-image: url('skin-large.jpg') ;
+    background-repeat: no-repeat;
+    background-size: cover;
+    border: 0ch;
+
+} 
+
+form{
+    margin: auto;
+    width: 50%;
+    padding: 1em;
+    background-color: #0fb8cee7;
+    box-shadow:  0px 5px 5px 3px rgba(5, 161, 175, 0.61);
+    
+}
+
+h1{
+    text-align: center;
+ 
+}
+button{
+    width: 7em;
+    height: 3em;
+    margin-left: 40%;
+    border-radius: 3em;
+    border: 0em;
+    margin-top: 0.5em;
+   
+}
+th{
+    text-align: center;
+}
+.error{
+    background-color: rgba(255, 0, 0, 0.664);
+    color: black;
+}
